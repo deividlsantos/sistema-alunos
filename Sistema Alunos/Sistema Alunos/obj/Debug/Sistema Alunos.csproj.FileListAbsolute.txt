@@ -1,0 +1,43 @@
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe.config
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.pdb
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csprojAssemblyReference.cache
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Form1.resources
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Properties.Resources.resources
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.GenerateResource.cache
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.CoreCompileInputs.cache
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.exe
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.pdb
+E:\Documentos\Informatica\ETEC\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.view.Form2.resources
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csprojAssemblyReference.cache
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Form1.resources
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Properties.Resources.resources
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.view.Form2.resources
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.view.Form3.resources
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.GenerateResource.cache
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.CoreCompileInputs.cache
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.exe
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.pdb
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe.config
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.pdb
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\MySql.Data.dll
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\Google.Protobuf.dll
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\bin\Debug\MySql.Data.xml
+E:\Documentos\Informatica\ETEC\C#\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.CopyComplete
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csprojAssemblyReference.cache
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Form1.resources
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.Properties.Resources.resources
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.view.Form2.resources
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema_Alunos.view.Form3.resources
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.GenerateResource.cache
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.CoreCompileInputs.cache
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.exe
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.pdb
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe.config
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.exe
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\Sistema Alunos.pdb
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\Google.Protobuf.dll
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\MySql.Data.xml
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\obj\Debug\Sistema Alunos.csproj.CopyComplete
+C:\Users\deivi\Desktop\Sistema Alunos\Sistema Alunos\bin\Debug\MySql.Data.dll
